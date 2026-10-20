@@ -48,7 +48,7 @@ A high-performance, interactive procedural universe built with **Three.js** and 
 
 ## 📜 License
 
-Project developed as a high-performance vibe-coded experiment in autonomous architecture.
+MIT License. Copyright (c) 2026 Shards Inc Ltd.
 
 ---
 
